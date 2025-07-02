@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nutri-Count/static/css/main.f0eafabd.css",
+    "main.js": "/Nutri-Count/static/js/main.7b722fb8.js",
+    "index.html": "/Nutri-Count/index.html",
+    "main.f0eafabd.css.map": "/Nutri-Count/static/css/main.f0eafabd.css.map",
+    "main.7b722fb8.js.map": "/Nutri-Count/static/js/main.7b722fb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0eafabd.css",
+    "static/js/main.7b722fb8.js"
+  ]
+}
