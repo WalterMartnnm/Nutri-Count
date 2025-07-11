@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nutri-Count/static/css/main.f0eafabd.css",
-    "main.js": "/Nutri-Count/static/js/main.7b722fb8.js",
+    "main.css": "/Nutri-Count/static/css/main.041e6535.css",
+    "main.js": "/Nutri-Count/static/js/main.b8484bd8.js",
     "index.html": "/Nutri-Count/index.html",
-    "main.f0eafabd.css.map": "/Nutri-Count/static/css/main.f0eafabd.css.map",
-    "main.7b722fb8.js.map": "/Nutri-Count/static/js/main.7b722fb8.js.map"
+    "main.041e6535.css.map": "/Nutri-Count/static/css/main.041e6535.css.map",
+    "main.b8484bd8.js.map": "/Nutri-Count/static/js/main.b8484bd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0eafabd.css",
-    "static/js/main.7b722fb8.js"
+    "static/css/main.041e6535.css",
+    "static/js/main.b8484bd8.js"
   ]
 }
